@@ -1,5 +1,5 @@
 # AndroidDevSoln
-[Documentation and Relesese](https://developer.android.com/studio)
+[Documentation and Release](https://developer.android.com/studio)
 
 ### Problems? Errors
 1. ASCII characters.
