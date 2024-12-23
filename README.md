@@ -1,6 +1,14 @@
 # AndroidDevSoln
 [Documentation and Release](https://developer.android.com/studio)
 
+# Compatibilty and Implementation
+- Android Studio Version
+- AGP Version:
+- Gradle Version:
+- SDK version:
+- APi Version
+- 
+
 ### Problems? Errors
 1. ASCII characters.
    ```
