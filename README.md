@@ -19,3 +19,8 @@
    ```
    Android Gradle plugin version 8.7.0 has an upgrade available. Start the AGP Upgrade Assistant to update this project's AGP version.
    ```
+
+### Basics App Development
+   - Rename
+     **Resources**
+     1. https://youtu.be/dguhLzJD_co?si=4ecOVH4pRV2pIejb
