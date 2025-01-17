@@ -27,4 +27,6 @@
    - Delete
      1. https://youtu.be/dguhLzJD_co?si=4ecOVH4pRV2pIejb
    - Rename
-     1. 
+     1.
+   - Folder and File Structure in file explorer:
+       
