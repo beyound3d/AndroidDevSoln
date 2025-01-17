@@ -29,4 +29,13 @@
    - Rename
      1.
    - Folder and File Structure in file explorer:
+
+
+# Android SDK Version Attributes
+
+| Attribute           | Determines                                | Affects Development | Affects Deployment |
+|---------------------|-------------------------------------------|----------------------|---------------------|
+| **`compileSdkVersion`** | API features available during development | ✅                   | ❌                  |
+| **`minSdkVersion`**     | Oldest Android version that can run the app | ❌                   | ✅                  |
+| **`targetSdkVersion`**  | Behavior optimizations for specific Android versions | ✅                   | ❌                  |
        
