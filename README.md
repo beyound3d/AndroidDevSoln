@@ -1,8 +1,8 @@
 
 # AndroidDevSoln![dev](https://github.com/user-attachments/assets/b6b24f81-0606-4f41-985b-697cb4cb9483)
 
-[Documentation and Release](https://developer.android.com/studio)
-[MyNotes](https://docs.google.com/document/d/1wTOXedzy-iPReN6kavMQISKv9EGeNqCYV0Z25xKTjSc/edit?usp=sharing)
+- [Documentation and Release](https://developer.android.com/studio)
+- [MyNotes](https://docs.google.com/document/d/1wTOXedzy-iPReN6kavMQISKv9EGeNqCYV0Z25xKTjSc/edit?usp=sharing)
 
 # Compatibilty and Implementation
 - Android Studio Version
